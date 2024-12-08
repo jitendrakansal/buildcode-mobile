@@ -1,4 +1,4 @@
-# Hands-on Guide: Develop Enterprise-Grade Cross-Platform Mobile Apps on SAP BTP with Joule
+# Develop Enterprise-Grade Cross-Platform Mobile Apps on SAP BTP with Joule
 
 ## Table of Contents
 
