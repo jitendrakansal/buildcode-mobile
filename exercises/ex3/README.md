@@ -4,7 +4,7 @@
 
 :clock4: 10 minutes
 
-In this exercise, you will learn how to enhance an MDK App using GenAI via Joule Assistant, available in the SAP Build Code development environment. You will generate an MDK page, action, and i18n resources in an existing MDK project using the Joule functionality in the Build Code.
+In this exercise, you will learn how to enhance an MDK App using GenAI via Joule Assistant, available in the SAP Build Code development environment. You will generate an MDK page in an existing MDK project using the Joule functionality in the Build Code.
 
  - [Exercise 3.1 - Generate a new MDK Page Displaying a Customer List](#exercise-31---generate-a-new-mdk-page-displaying-a-customer-list)
 - [Exercise 3.2 - Navigate to the New Customer List Page](#exercise-32---navigate-to-the-new-customer-list-page)
@@ -67,7 +67,6 @@ Right-click the `Application.app` file in the project explorer pane, select **MD
 | 1. Tap **Check for Updates** in the user menu on the Main page. | ![MDK](images/3.6.1.png) | ![MDK](images/3.6.2.png) |
 | 2. A _New Version Available_ pop-up will appear, tap **Now**. | ![MDK](images/3.6.3.png) | ![MDK](images/3.6.4.png) |
 | 3. After accepting the app update, the latest changes will appear in the MDK client. Tap **Customers** to see the updated UI. The end user can now easily contact a customer by tapping items like call, email, etc. This page also supports swipe left and right functionality for quick actions.  | ![MDK](images/3.6.5.gif) | ![MDK](images/3.6.6.gif) |
-| 4. To test localized string changes, change the device language to one of the following: Chinese, Dutch, French, German, Italian, Japanese, or Spanish. Relaunch the MDK client to see the localized strings for the _Products_ button on the main page. These screenshots were taken when the device language was set to German.| ![MDK](images/3.6.7.png) | ![MDK](images/3.6.8.png) |
 
 ## Summary
  
