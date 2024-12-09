@@ -2,7 +2,7 @@
 
 ## Estimated time
 
-:clock4: 30 minutes
+:clock4: 20 minutes
 
 In this exercise, you will learn how to develop a SAP Mobile Development Kit (MDK) Application from the SAP Build Lobby and continue the development using the Storyboard feature in SAP Build Code development environment.
 
@@ -11,7 +11,6 @@ In this exercise, you will learn how to develop a SAP Mobile Development Kit (MD
 - [Exercise 2.3 - Deploy the application](#exercise-23---deploy-the-application)
 - [Exercise 2.4 - Display the QR code for onboarding the Mobile app](#exercise-24---display-the-qr-code-for-onboarding-the-mobile-app)
 - [Exercise 2.5 - Run the app](#exercise-25---run-the-app)
-- [Exercise 2.6 - Explore Other Functionalities in Storyboard](#exercise-26---explore-other-functionalities-in-storyboard)
 
 ### Exercise 2.1 - Create a New Project Using SAP Build Code
 
@@ -185,29 +184,6 @@ The On-boarding QR code is now displayed.
 | 10. Tap on **Now** to accept the deployed metadata definitions. | ![MDK](images/1.5.17.png) | ![MDK](images/1.5.18.png) |
 | 11. After accepting the app update, you will see a list of entities on the **Main** page, along with a user menu that includes options such as syncing changes, accessing support, checking for updates, and resetting the app. <br><br>An offline store is initialized. <br><br>By tapping any entity, you will navigate to a list page. <br><br>If you select one of the items, the detail page will be displayed, allowing you to create, update, or delete the record. <br><br>This record will be saved to the offline request queue database. <br><br>You can navigate back to the main page and press the **Sync Changes** option in the user menu to upload any local changes to the backend. <br><br>Once the upload is successful, the app will also download data from the backend to the offline store, ensuring both sides have the same dataset.  | ![MDK](images/1.5.19.gif) | ![MDK](images/1.5.20.gif) |
 | 12. Additionally, you can search through all properties of the objects displayed in the section by entering them manually or using a barcode scanner. <br><br>For instance, in the Products list, you can scan the barcode to search for products belonging to the MP3 Players category. <br> ![MDK](images/1.5.20.png) | ![MDK](images/1.5.21.gif) | ![MDK](images/1.5.22.gif) |
-
-### Exercise 2.6 - Explore Other Functionalities in Storyboard
-
-Storyboard provides functionalities to view:
-
-- The Entity-Relationship Diagram for the OData service. 
-- The page map for MDK UI application.
-
-1. Click on `com.sap.edm....` under External Resources and select **View Diagram**.
-
-    ![MDK](images/1.6.1.png)
-
-2. An Entity-Relationship Digaram opens, representing OData entities, properties, and their relationships. This helps developers to view and understand the structure of OData metadata document in a graphical formats. 
-
-    ![MDK](images/1.6.2.png)
-
-3. Switch back to the Storyboard. Click on `mdkapp` under UI Applications and select **Open in Page Map**.
-
-    ![MDK](images/1.6.3.png)
-
-4. A page map view opens, representing the application flow, such as the starting page, different actions on the starting page,  navigating to other pages and so on. You can click on the edit icon to open a page in the page editor or click on action `NavTo..` to open it in the action editor. 
-
-    ![MDK](images/1.6.4.png)
 
 ## Summary
  

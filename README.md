@@ -22,8 +22,8 @@ These are the steps of our hands-on session:
 | Exercise Number | Title | Estimated Time (mins) |
 | ---- | ---- | --- |
 | [Exercise 1](./exercises/ex1/README.md) | Setup SAP Build Code in SAP BTP | 5 |
-| [Exercise 2](./exercises/ex2/README.md) | Develop a SAP Mobile Development Kit (MDK) Application in SAP Build Code | 30 |
-| [Exercise 3](./exercises/ex3/README.md) | Enhance your MDK App using Generative AI via Joule | 25 |
+| [Exercise 2](./exercises/ex2/README.md) | Develop a SAP Mobile Development Kit (MDK) Application in SAP Build Code | 20 |
+| [Exercise 3](./exercises/ex3/README.md) | Enhance your MDK App using Generative AI via Joule | 10 |
 
 ## Additional Support and Learning Resources
 
